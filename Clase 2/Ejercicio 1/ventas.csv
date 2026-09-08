@@ -1,0 +1,9 @@
+id_venta,fecha,id_cliente,producto,cantidad,precio_unitario
+1,2026-08-01,C001,Notebook,1,850000
+2,2026-08-02,C002,Mouse,2,18500
+3,2026-08-03,C003,Teclado,1,42000
+4,2026-08-04,C001,Monitor,1,210000
+5,2026-08-05,C004,Auriculares,2,35000
+6,2026-08-06,C005,Mouse,1,18500
+7,2026-08-07,C002,Webcam,1,68000
+8,2026-08-08,C006,Teclado,2,42000

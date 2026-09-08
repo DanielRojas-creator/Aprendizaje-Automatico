@@ -1,0 +1,38 @@
+[
+  {
+    "id_cliente": "C001",
+    "nombre": "Ana López",
+    "edad": 34,
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "id_cliente": "C002",
+    "nombre": "Carlos Gómez",
+    "edad": 41,
+    "ciudad": "Córdoba"
+  },
+  {
+    "id_cliente": "C003",
+    "nombre": "María Fernández",
+    "edad": 29,
+    "ciudad": "Rosario"
+  },
+  {
+    "id_cliente": "C004",
+    "nombre": "Juan Pérez",
+    "edad": 52,
+    "ciudad": "Mendoza"
+  },
+  {
+    "id_cliente": "C005",
+    "nombre": "Lucía Martínez",
+    "edad": 37,
+    "ciudad": "La Plata"
+  },
+  {
+    "id_cliente": "C006",
+    "nombre": "Pedro Sánchez",
+    "edad": 45,
+    "ciudad": "Salta"
+  }
+]
